@@ -1,9 +1,3 @@
-package com.javarush.task.task20.task2026;
-
-/* 
-Алгоритмы-прямоугольники
-*/
-
 import java.util.ArrayList;
 import java.util.List;
 
