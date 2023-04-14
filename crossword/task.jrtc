@@ -1,0 +1,21 @@
+Crossword
+
+1. Given a two-dimensional array that contains lowercase letters of the English alphabet.
+2. The detectAllWords method should find all words from words in the crossword array.
+3. Element(startX, startY) must match the first letter of the word, element(endX, endY) must match the last.
+text is the word itself, located between the start and end elements
+4. All words are in the array.
+5. Words can be arranged horizontally, vertically and diagonally in both normal and reverse order.
+6. The main method does not participate in testing.
+
+Кроссворд
+
+1. Дан двумерный массив, который содержит буквы английского алфавита в нижнем регистре.
+2. Метод detectAllWords должен найти все слова из words в массиве crossword.
+3. Элемент(startX, startY) должен соответствовать первой букве слова, элемент(endX, endY) - последней.
+text - это само слово, располагается между начальным и конечным элементами
+4. Все слова есть в массиве.
+5. Слова могут быть расположены горизонтально, вертикально и по диагонали как в нормальном, так и в обратном порядке.
+6. Метод main не участвует в тестировании.
+
+
