@@ -3,7 +3,7 @@ package tests;
 import java.util.Arrays;
 import java.util.Random;
 /**
- * you can use it shuffle array in "random" order
+ * you can use it to shuffle array in "random" order
  */
 public class Shuffler {
 
