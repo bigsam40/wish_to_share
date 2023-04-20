@@ -1,3 +1,4 @@
+//this was realy hard one
 DESCRIPTION:
 The code consists of four unique digits (from 0 to 9).
 Tests will call your solution; you should answer with an array of four digits.
