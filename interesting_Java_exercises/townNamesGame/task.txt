@@ -1,0 +1,33 @@
+In the main method, read from the console the name of a file that contains words separated by spaces.
+In the getLine method, use a StringBuilder to arrange all the words in such an order that the last letter of the given word matches the first letter of the next one, regardless of case.
+Each word must participate 1 time.
+Consider that absolutely all words from the original list can (and should!) be included in the result (there are no extra words).
+The getLine method must return any valid option if there are more than one (see example).
+Separate words with a space.
+Print the resulting string to the screen.
+An example of the input file body:
+Kyiv New-York Amsterdam Vienna Melbourn
+Result:
+Amsterdam Melbourn New-York Kyiv Vienna
+or
+Vienna Amsterdam Melbourn New-York Kyiv
+or
+Melbourn New-York Kyiv Vienna Amsterdam
+and so on.
+
+В методе main считай с консоли имя файла, который содержит слова, разделенные пробелом.
+В методе getLine используя StringBuilder расставь все слова в таком порядке, чтобы последняя буква данного слова совпадала с первой буквой следующего не учитывая регистр.
+Каждое слово должно участвовать 1 раз.
+Считай, что абсолютно все слова из исходного списка могут (и должны!) быть включены в результат (лишних слов нет).
+Метод getLine должен возвращать любой правильный вариант при наличии нескольких таковых (см. пример).
+Слова разделять пробелом.
+Вывести полученную строку на экран.
+Пример тела входного файла:
+Киев Нью-Йорк Амстердам Вена Мельбурн
+Результат:
+Амстердам Мельбурн Нью-Йорк Киев Вена
+или
+Вена Амстердам Мельбурн Нью-Йорк Киев
+или
+Мельбурн Нью-Йорк Киев Вена Амстердам
+и т.п.
